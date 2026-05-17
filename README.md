@@ -1,6 +1,6 @@
-# Hi, I'm Aditya 👋
+# Hi, I'm Aditya 
 
-I’m a Computer Science / Artificial Intelligence Methods and Applications student focused on **software engineering** and **AI/ML**, with a strong interest in **AI for financial services** and product engineering. I like turning messy problems into clean systems—shipping reliable code, testing rigorously, and communicating clearly.
+I’m a Computer Science / Artificial Intelligence Engineering student focused on **software engineering** and **AI/ML**, with a strong interest in **AI for financial services** and product engineering.
 
 ---
 
